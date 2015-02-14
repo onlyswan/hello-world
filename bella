@@ -1,0 +1,3 @@
+do{
+ 　　I.Love(&you);
+ } while(you.love(&me) || !you.love(&me))
